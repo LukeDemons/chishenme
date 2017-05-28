@@ -4,4 +4,4 @@
 
 然后自己挂了一波
 
-[food.chuang.studio]: http://food.chuang.studio	"吃什么"
+--> [吃什么？](http://food.chuang.studio) <--
